@@ -1,0 +1,12 @@
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_EntityFramework\bin\Debug\HoGiaHuy_EntityFramework.exe.config
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_EntityFramework\bin\Debug\HoGiaHuy_EntityFramework.exe
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_EntityFramework\bin\Debug\HoGiaHuy_EntityFramework.pdb
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_EntityFramework\bin\Debug\EntityFramework.dll
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_EntityFramework\bin\Debug\EntityFramework.xml
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_EntityFramework\obj\Debug\HoGiaHuy_EntityFramework.csproj.AssemblyReference.cache
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_EntityFramework\obj\Debug\HoGiaHuy_EntityFramework.csproj.CoreCompileInputs.cache
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_EntityFramework\obj\Debug\HoGiaHuy_EntityFramework.csproj.CopyComplete
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_EntityFramework\obj\Debug\HoGiaHuy_EntityFramework.exe
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_EntityFramework\obj\Debug\HoGiaHuy_EntityFramework.pdb
